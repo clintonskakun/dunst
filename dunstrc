@@ -1,0 +1,11 @@
+[global]
+    frame_width = 0
+    background = "#000000"
+    foreground = "#ffffff"
+    width = (50, 500)
+    offset = (5, 5)
+    padding = 10
+    font = Monospace 11
+    horizontal_padding = 10
+    gap_size = 5
+
